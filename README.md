@@ -13,3 +13,21 @@ Node js crud operation:
 API documentation:
 
 https://documenter.getpostman.com/view/35027987/2sA3dygAbb
+
+Base Url:
+
+https://node-js-2-sdme.onrender.com/api/
+
+List all rooms with booked data.
+
+https://node-js-2-sdme.onrender.com/api/get
+
+List all customer with booked data
+
+https://node-js-2-sdme.onrender.com/api/getcustomerbookeddetails
+
+list how many times a same customer booked a room
+
+https://node-js-2-sdme.onrender.com/api/getcustomerhistory
+
+
